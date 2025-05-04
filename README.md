@@ -28,4 +28,3 @@ Each PBL folder contains:
 - `README.md`: Description and objectives of the project
 - `src/`: Source files (SystemVerilog)
 - `documentation/`: Diagrams, reports and additional documents
-- `sim/`: Simulation testbenches and results (if applicable)
