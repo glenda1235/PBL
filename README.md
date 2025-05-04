@@ -24,7 +24,8 @@ The purpose of this repository is to document and demonstrate the practical appl
 ## 📁 Structure
 
 Each PBL folder contains:
-
-- `README.md`: Description and objectives of the project
 - `src/`: Source files (SystemVerilog)
+- `tb/` : testbench for simulation (SystemVerilog)
+
+Alongside full documentation for the entire project:
 - `documentation/`: Diagrams, reports and additional documents
