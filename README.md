@@ -1,4 +1,4 @@
-# PBL Projects – SystemVerilog | Vivado (Linux)
+# PBL Projects – RTL | RICSV
 
 This repository contains a collection of Project-Based Learning (PBL) activities developed as part of my course using SystemVerilog in the Vivado environment (Linux version). Each PBL addresses a specific stage in the design and verification flow of digital systems, from RTL development to physical prototyping.
 
